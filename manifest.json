@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "SimpleIP",
+  "version": "1.0",
+  "description": "View your IP Address in the browser.",
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "SimpleIP-id@extension.com"
+    }
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ]
+}

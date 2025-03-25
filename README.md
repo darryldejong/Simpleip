@@ -10,4 +10,4 @@ The extension displays your IP and network details in a pop-up when you click th
 ## License
 This project is licensed under the MIT License.
 
-![Voorbeeld](Image1.png)
+![Voorbeeld](Image.png)
